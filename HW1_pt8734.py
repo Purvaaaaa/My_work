@@ -1,4 +1,4 @@
-# File Name: HW1_pt8734.py
+## File Name: HW1_pt8734.py
 # Programmer Name: Purva Tiwari (EID: pt8734)
 # Problem Description: Create custom encryption function to convert plain text string into a ciphertext,
 #                      encoding using custom encryption algorithm.
